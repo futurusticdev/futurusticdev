@@ -37,32 +37,12 @@ I transform complex ideas into elegant, user-friendly solutions through modern w
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=futurusticdev&layout=compact&theme=radical)
 
-## 🏆 Recent Projects
-
-### [Portfolio Website](https://github.com/futurusticdev/dev-portfolio)
-
-Modern portfolio website showcasing my skills and projects, built with React, TailwindCSS, and modern JavaScript.
-
-### [Rock Paper Scissors](https://github.com/futurusticdev/Project-Rock-Paper-Scissors)
-
-Interactive Rock Paper Scissors game with an intuitive UI and sleek animations.
-
-### [Loops & Algorithms](https://github.com/futurusticdev/loops-countdown)
-
-Collection of JavaScript algorithms and loop implementations.
-
-## 🌱 Currently Learning
-
-- Advanced React patterns and state management
-- Server-side rendering and Next.js
-- JavaScript testing strategies
-- UI/UX design principles
-
 ## 📫 Let's Connect!
 
 Feel free to reach out if you're interested in collaborating on a project or just want to chat about technology!
 
 ![Profile views](https://komarev.com/ghpvc/?username=futurusticdev&color=blueviolet)
+
 
 ---
 
